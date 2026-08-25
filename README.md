@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-[![LeetCode Stats](https://jacoblin.cool)](https://leetcode.com/u/vinay96naugain/)
-
+[![LeetCode Stats](https://vercel.app)](https://leetcode.com?username=vinay96naugain)
 
 
