@@ -1,4 +1,4 @@
 ## Hi there 👋
-![Leetcode Stats](https://leetcode-stats-fast.vercel.app/?username=vinay96naugain&theme=unicorn&ext=activity)
+![Leetcode Stats](https://leetcode-stats-fast.vercel.app/?username=vinay96naugain&theme=&ext=activity)
 
 
