@@ -1,4 +1,5 @@
 ## Hi there 👋
 ![Leetcode Stats](https://leetcode-stats-fast.vercel.app/?username=vinay96naugain&theme=&ext=activity)
+[![Top Langs](https://vercel.app)](https://github.com
 
 
